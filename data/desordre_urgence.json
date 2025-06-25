@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "libelle": "Faible urgence",
+    "abrege": "0",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "2",
+    "libelle": "Pas de grande urgence",
+    "abrege": "1",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "3",
+    "libelle": "Désordre devant être traité à court ou moyen terme",
+    "abrege": "2",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "4",
+    "libelle": "Désordre devant être traité de façon urgente",
+    "abrege": "3",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "99",
+    "libelle": "Indéfini",
+    "abrege": "IND",
+    "dateMaj": "2005-11-22"
+  }
+]

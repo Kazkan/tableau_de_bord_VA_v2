@@ -1,0 +1,6 @@
+st-pages
+geopandas
+streamlit_folium
+folium
+shapely
+plotly

@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "libelle": "Aucune",
+    "abrege": "AUC",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "2",
+    "libelle": "Surveillance",
+    "abrege": "SUR",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "3",
+    "libelle": "Entretien",
+    "abrege": "ENT",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "4",
+    "libelle": "Etudes",
+    "abrege": "ETU",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "5",
+    "libelle": "Travaux",
+    "abrege": "TRA",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "6",
+    "libelle": "Archivé",
+    "abrege": "ARH",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "7",
+    "libelle": "Prioritaire",
+    "abrege": "PRI",
+    "dateMaj": "nan"
+  },
+  {
+    "id": "8",
+    "libelle": "Constat",
+    "abrege": "CST",
+    "dateMaj": "nan"
+  }
+]
