@@ -4,11 +4,11 @@ name = "Accueil"
 
 [[pages]]
 path = "2_TABLEAU_DE_BORD.py"  
-name = "Tableau de bord"
+name = "Tableau_de_bord"
 
 [[pages]]
 path = "3_DESORDRES.py" 
-name = "Désordres"      
+name = "Desordres"      
 
 [[pages]]
 path = "4_PRESTATIONS.py" 
@@ -16,8 +16,8 @@ name = "Prestations"
 
 [[pages]]
 path = "5_RESEAUX.py" 
-name = "Réseaux"     
+name = "Reseaux"     
 
 [[pages]]
 path = "6_PARAMETRES.py"  
-name = "Paramètres"       
+name = "Parametres"       
