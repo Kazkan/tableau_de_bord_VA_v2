@@ -64,7 +64,7 @@ def rep_int(type : str) -> str :
         return "data/img"
     # renvoie du répertoire du fchier toml
     if type == "toml" :
-        return ".streamlit/config.toml"
+        return ".streamlit/pages.toml"
     
 # fonction pour obtenir la date de création d'un fichier
 def date_fichier(chemin : str) -> str :
