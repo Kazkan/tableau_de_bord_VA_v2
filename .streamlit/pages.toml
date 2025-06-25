@@ -1,0 +1,23 @@
+[[pages]]
+path = "1_ACCUEIL.py"
+name = "Accueil"
+
+[[pages]]
+path = "2_TABLEAU_DE_BORD.py"  
+name = "Tableau_de_bord"
+
+[[pages]]
+path = "3_DESORDRES.py" 
+name = "Desordres"      
+
+[[pages]]
+path = "4_PRESTATIONS.py" 
+name = "Prestations"     
+
+[[pages]]
+path = "5_RESEAUX.py" 
+name = "Reseaux"     
+
+[[pages]]
+path = "6_PARAMETRES.py"  
+name = "Parametres"       
